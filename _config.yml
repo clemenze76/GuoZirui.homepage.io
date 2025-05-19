@@ -29,7 +29,7 @@ author:
   location         : "China Kunming"
   employer         : 
   uri              : #"https://github.com/clemenze76"
-  email            : "guozr_kust@foxmail.com" 
+  email            : " guozr_kust@foxmail.com " 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
